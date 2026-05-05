@@ -1,7 +1,7 @@
 ---
 title: "Api Design"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:20:08.213Z"
+updated: "2026-05-05T17:30:32.440Z"
 ---
 
 # API Design Patterns
