@@ -1,7 +1,7 @@
 ---
 title: "Tailwind Css Guide"
 tags: ["skill", "auto-synced", "tailwind", "css", "frontend", "design", "responsive"]
-updated: "2026-05-05T14:13:59.072Z"
+updated: "2026-05-05T17:18:28.329Z"
 ---
 
 # Tailwind CSS
