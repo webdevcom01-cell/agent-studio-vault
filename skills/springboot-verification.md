@@ -1,7 +1,7 @@
 ---
 title: "Springboot Verification"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:18:08.221Z"
+updated: "2026-05-05T17:21:12.977Z"
 ---
 
 # Spring Boot Verification Loop
