@@ -1,7 +1,7 @@
 ---
 title: "Api Route Generator"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:20:04.264Z"
+updated: "2026-05-05T14:12:28.721Z"
 ---
 
 # API Route Generator
