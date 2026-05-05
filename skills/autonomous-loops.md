@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Loops"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:30:36.876Z"
+updated: "2026-05-05T18:04:48.921Z"
 ---
 
 # Autonomous Loops Skill
