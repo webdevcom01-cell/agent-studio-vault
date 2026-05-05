@@ -1,7 +1,7 @@
 ---
 title: "Swift Concurrency 6 2"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:21:24.034Z"
+updated: "2026-05-05T14:13:41.870Z"
 ---
 
 # Swift 6.2 Approachable Concurrency
