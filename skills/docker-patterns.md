@@ -1,7 +1,7 @@
 ---
 title: "Docker Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:20:36.192Z"
+updated: "2026-05-05T17:30:58.988Z"
 ---
 
 # Docker Patterns
