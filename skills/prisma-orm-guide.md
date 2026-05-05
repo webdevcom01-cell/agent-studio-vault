@@ -1,7 +1,7 @@
 ---
 title: "Prisma Orm Guide"
 tags: ["skill", "auto-synced", "prisma", "database", "orm", "typescript", "postgresql"]
-updated: "2026-05-05T13:21:39.209Z"
+updated: "2026-05-05T14:13:56.360Z"
 ---
 
 # Prisma ORM
