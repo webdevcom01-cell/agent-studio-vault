@@ -1,7 +1,7 @@
 ---
 title: "Async Await Patterns"
 tags: ["skill", "auto-synced", "typescript", "async", "promises", "javascript", "patterns"]
-updated: "2026-05-05T17:31:54.902Z"
+updated: "2026-05-05T18:06:23.258Z"
 ---
 
 # Async/Await Patterns
