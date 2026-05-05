@@ -1,7 +1,7 @@
 ---
 title: "Liquid Glass Design"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:20:55.993Z"
+updated: "2026-05-05T14:13:16.178Z"
 ---
 
 # Liquid Glass Design System (iOS 26)
