@@ -1,7 +1,7 @@
 ---
 title: "Typescript Basics"
 tags: ["skill", "auto-synced", "typescript", "javascript", "types", "interfaces"]
-updated: "2026-05-05T17:18:22.160Z"
+updated: "2026-05-05T17:21:26.109Z"
 ---
 
 # TypeScript Osnove
