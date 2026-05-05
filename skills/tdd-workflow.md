@@ -1,7 +1,7 @@
 ---
 title: "Tdd Workflow"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:21:20.048Z"
+updated: "2026-05-05T17:31:45.103Z"
 ---
 
 # Test-Driven Development Workflow
