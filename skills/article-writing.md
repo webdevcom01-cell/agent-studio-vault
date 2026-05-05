@@ -1,7 +1,7 @@
 ---
 title: "Article Writing"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:06.478Z"
+updated: "2026-05-05T17:20:10.800Z"
 ---
 
 # Article Writing
