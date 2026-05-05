@@ -1,7 +1,7 @@
 ---
 title: "Python Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:57.336Z"
+updated: "2026-05-05T17:21:01.534Z"
 ---
 
 # Python Development Patterns
