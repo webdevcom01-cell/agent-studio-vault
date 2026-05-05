@@ -1,7 +1,7 @@
 ---
 title: "Nextjs Api Routes"
 tags: ["skill", "auto-synced", "nextjs", "api", "typescript", "backend", "rest"]
-updated: "2026-05-05T17:31:52.744Z"
+updated: "2026-05-05T18:06:19.289Z"
 ---
 
 # Next.js API Routes
