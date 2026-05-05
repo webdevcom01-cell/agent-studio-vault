@@ -1,7 +1,7 @@
 ---
 title: "Migration Helper"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:20:55.138Z"
+updated: "2026-05-05T17:31:17.389Z"
 ---
 
 # Migration Helper Skill
