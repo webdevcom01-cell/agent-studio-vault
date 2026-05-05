@@ -1,7 +1,7 @@
 ---
 title: "Golang Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:20:45.139Z"
+updated: "2026-05-05T14:13:05.864Z"
 ---
 
 # Go Development Patterns
