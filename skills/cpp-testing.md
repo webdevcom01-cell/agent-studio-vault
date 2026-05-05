@@ -1,7 +1,7 @@
 ---
 title: "Cpp Testing"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T14:12:46.109Z"
+updated: "2026-05-05T17:17:23.853Z"
 ---
 
 # C++ Testing (Agent Skill)
