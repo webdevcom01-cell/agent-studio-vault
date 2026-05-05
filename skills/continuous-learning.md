@@ -1,7 +1,7 @@
 ---
 title: "Continuous Learning"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:18.736Z"
+updated: "2026-05-05T17:20:22.153Z"
 ---
 
 # Continuous Learning Skill
