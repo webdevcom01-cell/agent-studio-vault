@@ -1,7 +1,7 @@
 ---
 title: "Jpa Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T14:13:14.834Z"
+updated: "2026-05-05T17:17:47.983Z"
 ---
 
 # JPA/Hibernate Patterns
