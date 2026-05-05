@@ -1,7 +1,7 @@
 ---
 title: "Investor Outreach"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:20:47.552Z"
+updated: "2026-05-05T17:31:10.000Z"
 ---
 
 # Investor Outreach
