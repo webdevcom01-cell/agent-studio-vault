@@ -1,7 +1,7 @@
 ---
 title: "Investor Materials"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:20:48.615Z"
+updated: "2026-05-05T14:13:08.819Z"
 ---
 
 # Investor Materials
