@@ -1,7 +1,7 @@
 ---
 title: "Security Scan"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:21:13.953Z"
+updated: "2026-05-05T14:13:32.139Z"
 ---
 
 # Security Scan Skill
