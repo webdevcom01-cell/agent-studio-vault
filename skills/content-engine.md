@@ -1,7 +1,7 @@
 ---
 title: "Content Engine"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:16.026Z"
+updated: "2026-05-05T17:20:19.392Z"
 ---
 
 # Content Engine
