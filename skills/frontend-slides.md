@@ -1,7 +1,7 @@
 ---
 title: "Frontend Slides"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:20:43.900Z"
+updated: "2026-05-05T14:13:04.645Z"
 ---
 
 # Frontend Slides
