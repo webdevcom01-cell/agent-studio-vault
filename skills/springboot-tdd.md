@@ -1,7 +1,7 @@
 ---
 title: "Springboot Tdd"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T14:13:36.099Z"
+updated: "2026-05-05T17:18:07.276Z"
 ---
 
 # Spring Boot TDD Workflow
