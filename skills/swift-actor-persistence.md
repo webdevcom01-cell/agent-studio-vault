@@ -1,7 +1,7 @@
 ---
 title: "Swift Actor Persistence"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:21:22.624Z"
+updated: "2026-05-05T14:13:40.293Z"
 ---
 
 # Swift Actors for Thread-Safe Persistence
