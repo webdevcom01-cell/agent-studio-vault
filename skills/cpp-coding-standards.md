@@ -1,7 +1,7 @@
 ---
 title: "Cpp Coding Standards"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:20:24.188Z"
+updated: "2026-05-05T14:12:44.418Z"
 ---
 
 # C++ Coding Standards (C++ Core Guidelines)
