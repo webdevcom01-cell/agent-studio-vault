@@ -1,7 +1,7 @@
 ---
 title: "Database Migrations"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T14:12:47.561Z"
+updated: "2026-05-05T17:17:25.055Z"
 ---
 
 # Database Migration Patterns
