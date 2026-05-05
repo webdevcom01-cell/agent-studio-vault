@@ -1,7 +1,7 @@
 ---
 title: "Market Research"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:50.252Z"
+updated: "2026-05-05T17:20:54.052Z"
 ---
 
 # Market Research
