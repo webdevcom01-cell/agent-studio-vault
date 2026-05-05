@@ -1,7 +1,7 @@
 ---
 title: "Git Workflow Guide"
 tags: ["skill", "auto-synced", "git", "version-control", "workflow", "collaboration"]
-updated: "2026-05-05T17:21:33.935Z"
+updated: "2026-05-05T17:31:57.053Z"
 ---
 
 # Git Workflow
