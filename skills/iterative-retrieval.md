@@ -1,7 +1,7 @@
 ---
 title: "Iterative Retrieval"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:20:51.980Z"
+updated: "2026-05-05T14:13:11.764Z"
 ---
 
 # Iterative Retrieval Pattern
