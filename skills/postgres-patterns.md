@@ -1,7 +1,7 @@
 ---
 title: "Postgres Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T14:13:23.336Z"
+updated: "2026-05-05T17:17:54.987Z"
 ---
 
 # PostgreSQL Patterns
