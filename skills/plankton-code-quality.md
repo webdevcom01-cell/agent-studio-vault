@@ -1,7 +1,7 @@
 ---
 title: "Plankton Code Quality"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:53.852Z"
+updated: "2026-05-05T17:20:57.954Z"
 ---
 
 # Plankton Code Quality Skill
