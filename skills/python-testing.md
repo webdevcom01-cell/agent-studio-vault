@@ -1,7 +1,7 @@
 ---
 title: "Python Testing"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:21:07.663Z"
+updated: "2026-05-05T14:13:27.503Z"
 ---
 
 # Python Testing Patterns
