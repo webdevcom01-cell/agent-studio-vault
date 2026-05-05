@@ -1,7 +1,7 @@
 ---
 title: "Project Guidelines Example"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:56.123Z"
+updated: "2026-05-05T17:21:00.314Z"
 ---
 
 # Project Guidelines Skill (Example)
