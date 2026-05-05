@@ -1,7 +1,7 @@
 ---
 title: "Swiftui Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:21:26.464Z"
+updated: "2026-05-05T14:13:44.532Z"
 ---
 
 # SwiftUI Patterns
