@@ -1,7 +1,7 @@
 ---
 title: "Clickhouse Io"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:20:15.705Z"
+updated: "2026-05-05T17:30:39.599Z"
 ---
 
 # ClickHouse Analytics Patterns
