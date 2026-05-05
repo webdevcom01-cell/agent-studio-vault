@@ -1,7 +1,7 @@
 ---
 title: "Cost Aware Llm Pipeline"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:20:24.535Z"
+updated: "2026-05-05T17:30:47.384Z"
 ---
 
 # Cost-Aware LLM Pipeline
