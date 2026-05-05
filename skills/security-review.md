@@ -1,7 +1,7 @@
 ---
 title: "Security Review"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:18:02.067Z"
+updated: "2026-05-05T17:21:06.699Z"
 ---
 
 # Security Review Skill
