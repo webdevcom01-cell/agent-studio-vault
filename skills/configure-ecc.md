@@ -1,7 +1,7 @@
 ---
 title: "Configure Ecc"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:14.665Z"
+updated: "2026-05-05T17:20:18.094Z"
 ---
 
 # Configure Everything Claude Code (ECC)
