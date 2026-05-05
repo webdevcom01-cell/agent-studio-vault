@@ -1,7 +1,7 @@
 ---
 title: "Coding Standards"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:20:16.951Z"
+updated: "2026-05-05T17:30:40.696Z"
 ---
 
 # Coding Standards & Best Practices
