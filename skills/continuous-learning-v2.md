@@ -1,7 +1,7 @@
 ---
 title: "Continuous Learning V2"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:30:46.094Z"
+updated: "2026-05-05T18:05:00.002Z"
 ---
 
 # Continuous Learning v2.1 - Instinct
