@@ -1,7 +1,7 @@
 ---
 title: "Django Security"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:28.758Z"
+updated: "2026-05-05T17:20:32.281Z"
 ---
 
 # Django Security Best Practices
