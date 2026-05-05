@@ -1,7 +1,7 @@
 ---
 title: "Visa Doc Translate"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T14:13:49.855Z"
+updated: "2026-05-05T17:18:19.890Z"
 ---
 
 You are helping translate visa application documents for visa applications.
