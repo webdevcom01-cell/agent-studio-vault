@@ -1,7 +1,7 @@
 ---
 title: "Verification Loop"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:21:31.156Z"
+updated: "2026-05-05T14:13:48.472Z"
 ---
 
 # Verification Loop Skill
