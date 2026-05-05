@@ -1,7 +1,7 @@
 ---
 title: "E2e Testing"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T14:12:58.465Z"
+updated: "2026-05-05T17:17:34.542Z"
 ---
 
 # E2E Testing Patterns
