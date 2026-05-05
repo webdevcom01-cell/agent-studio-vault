@@ -1,7 +1,7 @@
 ---
 title: "Springboot Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:18:04.814Z"
+updated: "2026-05-05T17:21:09.185Z"
 ---
 
 # Spring Boot Development Patterns
