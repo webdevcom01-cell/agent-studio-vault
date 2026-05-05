@@ -1,7 +1,7 @@
 ---
 title: "Search First"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T14:13:29.656Z"
+updated: "2026-05-05T17:18:01.065Z"
 ---
 
 # /search-first — Research Before You Code
