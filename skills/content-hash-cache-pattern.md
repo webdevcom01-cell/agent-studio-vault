@@ -1,7 +1,7 @@
 ---
 title: "Content Hash Cache Pattern"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:17.333Z"
+updated: "2026-05-05T17:20:20.826Z"
 ---
 
 # Content-Hash File Cache Pattern
