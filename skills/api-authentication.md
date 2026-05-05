@@ -1,7 +1,7 @@
 ---
 title: "Api Authentication"
 tags: ["skill", "auto-synced", "authentication", "jwt", "nextjs", "security", "api"]
-updated: "2026-05-05T17:18:32.690Z"
+updated: "2026-05-05T17:21:37.542Z"
 ---
 
 # API Autentifikacija
