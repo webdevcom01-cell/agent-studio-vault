@@ -1,7 +1,7 @@
 ---
 title: "Java Coding Standards"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:20:50.366Z"
+updated: "2026-05-05T17:31:12.309Z"
 ---
 
 # Java Coding Standards
