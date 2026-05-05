@@ -1,7 +1,7 @@
 ---
 title: "Django Tdd"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:20:33.318Z"
+updated: "2026-05-05T14:12:53.956Z"
 ---
 
 # Django Testing with TDD
