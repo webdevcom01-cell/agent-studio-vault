@@ -1,7 +1,7 @@
 ---
 title: "Strategic Compact"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T14:13:38.863Z"
+updated: "2026-05-05T17:18:09.267Z"
 ---
 
 # Strategic Compact Skill
