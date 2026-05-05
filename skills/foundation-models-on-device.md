@@ -1,7 +1,7 @@
 ---
 title: "Foundation Models On Device"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:31:02.449Z"
+updated: "2026-05-05T18:05:17.871Z"
 ---
 
 # FoundationModels: On-Device LLM (iOS 26)
