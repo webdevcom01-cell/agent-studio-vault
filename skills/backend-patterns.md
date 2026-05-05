@@ -1,7 +1,7 @@
 ---
 title: "Backend Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T14:12:32.443Z"
+updated: "2026-05-05T17:20:13.640Z"
 ---
 
 # Backend Development Patterns
