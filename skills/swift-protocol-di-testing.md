@@ -1,7 +1,7 @@
 ---
 title: "Swift Protocol Di Testing"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:21:25.272Z"
+updated: "2026-05-05T14:13:43.256Z"
 ---
 
 # Swift Protocol-Based Dependency Injection for Testing
