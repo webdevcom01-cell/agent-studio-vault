@@ -1,7 +1,7 @@
 ---
 title: "Frontend Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:37.977Z"
+updated: "2026-05-05T17:20:40.995Z"
 ---
 
 # Frontend Development Patterns
