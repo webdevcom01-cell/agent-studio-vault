@@ -1,7 +1,7 @@
 ---
 title: "Error Handling Typescript"
 tags: ["skill", "auto-synced", "typescript", "error-handling", "patterns", "best-practices"]
-updated: "2026-05-05T17:18:31.558Z"
+updated: "2026-05-05T17:21:36.485Z"
 ---
 
 # Error Handling
