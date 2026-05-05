@@ -1,7 +1,7 @@
 ---
 title: "Regex Vs Llm Structured Text"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:31:27.116Z"
+updated: "2026-05-05T18:05:42.900Z"
 ---
 
 # Regex vs LLM for Structured Text Parsing
