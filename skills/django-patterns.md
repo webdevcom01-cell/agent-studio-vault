@@ -1,7 +1,7 @@
 ---
 title: "Django Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:30:53.766Z"
+updated: "2026-05-05T18:05:08.772Z"
 ---
 
 # Django Development Patterns
