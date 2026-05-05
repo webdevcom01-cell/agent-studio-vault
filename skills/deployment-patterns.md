@@ -1,7 +1,7 @@
 ---
 title: "Deployment Patterns"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T13:20:28.879Z"
+updated: "2026-05-05T14:12:49.029Z"
 ---
 
 # Deployment Patterns
