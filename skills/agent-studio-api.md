@@ -1,7 +1,7 @@
 ---
 title: "Agent Studio Api"
 tags: ["skill", "auto-synced", "agent-studio", "api", "agents", "flows", "skills"]
-updated: "2026-05-05T17:18:30.570Z"
+updated: "2026-05-05T17:21:35.342Z"
 ---
 
 # Agent Studio API
