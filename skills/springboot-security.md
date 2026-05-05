@@ -1,7 +1,7 @@
 ---
 title: "Springboot Security"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:18:06.090Z"
+updated: "2026-05-05T17:21:10.541Z"
 ---
 
 # Spring Boot Security Review
