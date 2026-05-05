@@ -1,7 +1,7 @@
 ---
 title: "Golang Testing"
 tags: ["skill", "auto-synced"]
-updated: "2026-05-05T17:17:42.183Z"
+updated: "2026-05-05T17:20:44.967Z"
 ---
 
 # Go Testing Patterns
