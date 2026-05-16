@@ -20,4 +20,3 @@ date | trend | platform | hook_text | score | pattern
 
 ## Reference: What made past hooks work
 *(Populated as winners accumulate — style patterns extracted here)*
-

@@ -1,6 +1,6 @@
 # Content Repurposer — Instincts
 *Path: /agents/content-repurposer/instincts*
-*Last updated: 2026-05-02*
+*Last updated: 2026-05-15*
 
 ---
 
@@ -20,7 +20,6 @@
 - Thread narrative: Problem → Context → Implication → Mistake → Fix → Takeaway → CTA
 - Never split a sentence across tweets — complete thought per tweet
 - Don't pad to 6 tweets if 5 is cleaner
-- Reuse the hook from all_hooks that has the sharpest single-tweet structure
 
 **YouTube → the most educational piece**
 - Script outline, not full script — enough for a confident presenter to riff
@@ -44,7 +43,7 @@
 - CTA: "Follow for X" works better than "Comment below" for dev content
 
 ### Cross-platform adaptation rules
-- Hook from all_hooks: select based on platform fit, NOT score alone — a ⭐⭐ fit-optimized hook beats a ⭐⭐⭐ wrong-platform hook
+- Each platform receives its own pre-optimized hook via payload (HOOK_LINKEDIN, HOOK_X, HOOK_YOUTUBE, HOOK_INSTAGRAM, HOOK_TIKTOK) — use them directly, do not re-select or substitute
 - LinkedIn body ≠ thread tweets — completely different content, same topic
 - TikTok script should feel like the LinkedIn post's rebellious younger sibling
 - Never copy-paste a sentence from one platform piece into another
@@ -64,7 +63,39 @@ GOOD: "One kb_search node, injected via {{kb_context}} — agents read it on eve
 
 ### Common mistakes
 - DO NOT generate a "YouTube full script" — outline only, sections + bullets
-- DO NOT use same hook text on LinkedIn and X verbatim — reformat even if same pattern
-- DO NOT forget to check all_hooks for TikTok-specific hook before defaulting to main hook
+- DO NOT use same hook text across platforms — each platform has its own hook from payload
 - Word count check: if LinkedIn draft < 300 words, it's not done — expand the body
 - TikTok SPOKEN hook: count the words manually before finalizing. Max 12. If >12, cut.
+
+---
+
+## Quality Gate Failures (learned from runs)
+
+### 🔴 Run 3 — 2026-05-15 — Banned phrase slipped through on LinkedIn Line 2
+**What happened:** LinkedIn hook Line 1 was clean (P1 pattern, no emojis, ✅). But Line 2 contained "change the game" — a banned phrase — despite it being explicitly listed in hard_constraints.
+
+**Root cause:** The quality_gate scans the entire output but Line 2 of the hook sits right at the top before the body. Easy to miss when attention is on the main content block.
+
+**Fix:** Before writing LinkedIn Line 2 — do a banned phrase spot-check on that line specifically, not just as part of the full output scan. "Change the game" and all variants are the most likely to slip in as natural filler on Line 2.
+
+**Banned Line 2 patterns to actively avoid:**
+- ❌ "...change the game" / "...changes everything" / "...is a game-changer"
+- ❌ "...revolutionizes how we build" / "...transforms your workflow"
+- ✅ "...cuts deployment time from days to hours" (specific + measurable)
+- ✅ "...and most builders haven't noticed yet" (stakes without banned words)
+- ✅ "...without touching your orchestration layer 🔧" (technical specificity)
+
+---
+
+### 🔴 Run 3 — 2026-05-15 — Fabricated statistic in LinkedIn body
+**What happened:** LinkedIn body opened with "68% of AI agents still need manual tweaking" — a statistic that did not appear anywhere in the incoming payload or KB context. Violated the NO FABRICATED STATISTICS hard constraint.
+
+**Root cause:** P1 hook pattern naturally invites a percentage ("X% of developers still..."). When no real stat exists in the payload, the model filled it in from training data.
+
+**Fix:** If the incoming HOOK_LINKEDIN is a P1 (Hard Stat) pattern, check whether the stat is actually in the payload before using it in the body. If not there → do NOT use it. Instead, reframe using a concrete feature description.
+
+**Safe alternatives when no stat is available:**
+- ❌ "68% of AI agents still need manual tweaking" (invented)
+- ✅ "Most AI agent teams report the same bottleneck: manual tuning at every deployment cycle."
+- ✅ "The pattern is consistent across teams building with [TREND]: manual intervention is still the default."
+- ✅ "Walk into any agent-building team and you'll find the same problem: [describe without % claim]"
