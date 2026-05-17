@@ -22,3 +22,11 @@ date | trend | platforms_completed | scores | flag | notes
 
 
 2026-05-16 | Anthropic Claude Sonnet 4 release | 5/5 | LI:19 X:18 YT:17 IG:17 TT:18 | none | ✅ CLEAN RUN — Svih 5 platformi kompletno. Platform-specifični sadržaj. LinkedIn ~230 words. TikTok 60s. Nema quality violations.
+
+
+
+2026-05-17 | Anthropic Claude Code CLI and Agent SDK | 5/5 | LI:19 X:18 YT:17 IG:17 TT:18 | QUALITY_VIOLATIONS | QUALITY_VIOLATION: 80% fabricated stat propagated from HW to all 5 platforms. Content structurally complete.
+
+2026-05-17 | Anthropic's Claude Opus 4.7 and Claude Design launch | 5/5 | LI:19 X:18 YT:17 IG:17 TT:18 | none | ✅ CLEAN RUN — no fabricated stats, STAT GUARD active
+
+2026-05-17 | Anthropic expanded partnership with PwC to enhance AI adoption in enterprise | 5/5 | LI:19 X:18 YT:17 IG:17 TT:18 | none | ✅ CLEAN RUN — ⭐ LOW CONFIDENCE from single source input

@@ -22,3 +22,11 @@ date | trend | platforms | scores | winner_platform | winner_score | flags
 
 
 2026-05-16 | Anthropic Claude Sonnet 4 release | all-5 (platform-specific) | LI:19 X:18 YT:17 IG:17 TT:18 | LinkedIn | 19/20 | ✅ CLEAN RUN — 5 distinct hooks per platform. Angle: self-improving AI agents — human code isn't bottleneck. All scores ≥17. No structural flags.
+
+
+
+2026-05-17 | Anthropic Claude Code CLI and Agent SDK | all-5 (platform-specific) | LI:19 X:18 YT:17 IG:17 TT:18 | LinkedIn | 19/20 | QUALITY_VIOLATION
+
+2026-05-17 | Anthropic's Claude Opus 4.7 and Claude Design launch | all-5 (platform-specific) | LI:19 X:18 YT:17 IG:17 TT:18 | LinkedIn | 19/20 | none
+
+2026-05-17 | Anthropic expanded partnership with PwC to enhance AI adoption in enterprise | all-5 (platform-specific) | LI:19 X:18 YT:17 IG:17 TT:18 | LinkedIn | 19/20 | none
