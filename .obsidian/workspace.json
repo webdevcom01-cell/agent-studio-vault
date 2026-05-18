@@ -11,10 +11,24 @@
             "id": "13b16193d1e8ce78",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2026-05-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-17"
             }
           }
         ]
@@ -175,6 +189,8 @@
   },
   "active": "13b16193d1e8ce78",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2026-05-17.md",
     "agents/score-analyzer/evo-log.md",
     "agents/score-analyzer/instincts.md",
     "agents/score-analyzer/agent-card.md",
