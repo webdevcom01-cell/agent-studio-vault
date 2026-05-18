@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32ad6610358026fd",
+        "id": "b761d7ebc0901953",
         "type": "tabs",
         "children": [
           {
-            "id": "13b16193d1e8ce78",
+            "id": "8bfd596571016556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-05-17.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-17"
+              "title": "README"
             }
           }
         ]
@@ -187,10 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13b16193d1e8ce78",
+  "active": "8bfd596571016556",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "skills/agent-studio-api.md",
     "2026-05-17.md",
+    "Untitled.canvas",
     "agents/score-analyzer/evo-log.md",
     "agents/score-analyzer/instincts.md",
     "agents/score-analyzer/agent-card.md",
